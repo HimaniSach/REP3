@@ -2,17 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "Q1": "What is my fav color"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "Q2": "What is my fav country"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "Q3": "What is my fav language"
     }
-  ],
-  "Question1": "What is my fav color",
-  "Options1": ["black","white","red"]
+  ]
 }
