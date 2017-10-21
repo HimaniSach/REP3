@@ -13,19 +13,6 @@
       "title": "Post 3"
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Question1": "What is my fav color",
+  "Options1": ["black","white","red"]
 }
